@@ -2,5 +2,5 @@ streamlit
 pandas
 matplotlib
 wordcloud
-google-generativeai
+google-genai
 fpdf
