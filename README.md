@@ -2,6 +2,10 @@
 
 An AI-powered customer review analytics system that transforms large-scale customer reviews into actionable business insights using Python, data analytics, sentiment analysis, and Google Gemini AI.
 
+## 🚀 Live Demo
+
+👉 [AI Customer Review Intelligence – Live App](https://ai-customer-review-intelligence-v2.streamlit.app/)
+
 ## Project Overview
 
 Customer reviews contain valuable information about customer satisfaction, complaints, product experience, and improvement opportunities. However, analyzing hundreds of thousands of reviews manually is time-consuming.
