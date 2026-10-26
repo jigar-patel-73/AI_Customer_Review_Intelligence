@@ -164,7 +164,7 @@ button[aria-selected="true"]:nth-of-type(4) {
 # SIDEBAR
 # =========================================
 
-st.sidebar.title("🤖 AI Review Intelligence")
+st.sidebar.title("🤖 AI Customer Review Intelligence")
 
 st.sidebar.markdown("""
 ---
